@@ -21,3 +21,24 @@ Analysis of the Google Cloud certification program.
   - LinkedIn: <https://www.linkedin.com/in/marcosmanuelortega/>
   - GitHub: <https://github.com/Indavelopers>
 - From Almería, Spain with ❤️
+
+## License
+
+See `LICENSE` file.
+
+## Known issues
+
+Tested at the time of the last commit:
+
+- None
+
+If you find any issues, please open a GitHub issue, open a PR with a fix, or contact the maintainer.
+
+## Contributions, help and discussion
+
+Please, open an issue, submit a pull request, or generally contact the author by any means.
+
+## TO-DOs
+
+- Add "share to LinkedIn" link in home
+- Consider adding other social share links in home and posts

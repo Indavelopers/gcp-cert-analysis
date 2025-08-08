@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Google Cloud certified analysis
 ---
-
-# Google Cloud certified analysis
 
 Analysis of the Google Cloud certification program.
 
@@ -18,11 +17,8 @@ Analysis of the Google Cloud certification program.
 ## Maintainer
 
 - Marcos Manuel Ortega
-- Consultant, architect & trainer - Director @ Indavelopers
 - Google Cloud Authorized Trainer
 - Google Developer Expert - Google Cloud
-- Contact:
-  - info@indavelopers.com
-  - LinkedIn: <https://www.linkedin.com/in/marcosmanuelortega/>
-  - GitHub: <https://github.com/Indavelopers>
 - From Almería, Spain with ❤️
+
+Contact info: [/about](/gcp-cert-analysis/about/)
